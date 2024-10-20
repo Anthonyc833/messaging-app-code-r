@@ -1,0 +1,47 @@
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.csproj.AssemblyReference.cache
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.AssemblyInfoInputs.cache
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.AssemblyInfo.cs
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.csproj.CoreCompileInputs.cache
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\bin\Debug\netstandard2.0\GroupChat.deps.json
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\bin\Debug\netstandard2.0\GroupChat.dll
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\bin\Debug\netstandard2.0\GroupChat.pdb
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.dll
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\refint\GroupChat.dll
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.pdb
+C:\Users\ColanA\source\repos\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\ref\GroupChat.dll
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\bin\Debug\netstandard2.0\GroupChat.deps.json
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\bin\Debug\netstandard2.0\GroupChat.dll
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\bin\Debug\netstandard2.0\GroupChat.pdb
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\Settings.xaml.g.cs
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.AssemblyInfo.cs
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.dll
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\refint\GroupChat.dll
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.pdb
+C:\Users\User\Desktop\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\ref\GroupChat.dll
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\bin\Debug\netstandard2.0\GroupChat.deps.json
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\bin\Debug\netstandard2.0\GroupChat.dll
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\bin\Debug\netstandard2.0\GroupChat.pdb
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.csproj.AssemblyReference.cache
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\Settings.xaml.g.cs
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.AssemblyInfoInputs.cache
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.AssemblyInfo.cs
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.csproj.CoreCompileInputs.cache
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\XamlC.stamp
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.dll
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\refint\GroupChat.dll
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\GroupChat.pdb
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat\obj\Debug\netstandard2.0\ref\GroupChat.dll

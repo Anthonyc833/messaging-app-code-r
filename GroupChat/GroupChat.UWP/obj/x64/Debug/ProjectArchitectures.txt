@@ -1,0 +1,1 @@
+D:\assigments for TAFE\GroupChat\GroupChat\GroupChat.UWP\GroupChat.UWP.csproj;x64

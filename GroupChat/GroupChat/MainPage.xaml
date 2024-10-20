@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GroupChat.MainPage"
+             BackgroundColor="AntiqueWhite">
+
+    <StackLayout Orientation="Vertical">
+        <StackLayout HorizontalOptions="Center">
+            <Label Text="Group Chat" BackgroundColor="Black" FontSize="25" TextColor="White"/>
+        </StackLayout>
+        <StackLayout>
+            <Entry x:Name="Entrybox"/>
+        </StackLayout>
+        <StackLayout>
+            <Button x:Name="Send" Text="Send" Clicked="Send_Clicked"/>
+            <Button x:Name="referesh" Text="Refresh" Clicked="referesh_Clicked"/>
+        </StackLayout>
+        <StackLayout>
+            <Label x:Name="MessagesLabel"/>
+        </StackLayout>
+        <StackLayout>
+            <Button x:Name="Redbutton" Text="RED" Clicked="Redbutton_Clicked"/>
+            <Button x:Name="Bluebutton" Text="Blue" Clicked="Bluebutton_Clicked"/>
+            <Button x:Name="Yellowbutton" Text="YEllow" Clicked="Yellowbutton_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
